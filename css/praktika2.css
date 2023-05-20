@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(90deg, #b4d1e3, white);
+}
+.jumbotron{
+    background-color: deepskyblue;
+    margin-top: 200px;
+    box-shadow: 3px 3px  12px 6px grey;
+}
+button{
+    border-radius: 50px !important;
+    border-width: 2px !important;
+    box-shadow: 3px 3px  12px 1px grey;
+}

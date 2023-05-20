@@ -1,0 +1,14 @@
+
+.container {
+    position: relative;
+}
+.jumbotron{
+    margin-left: 200px;
+    margin-top: 200px;
+    background-color: deepskyblue;
+}
+.box{
+    margin-left: 200px;
+    position: absolute;
+    top: -30%;
+}
